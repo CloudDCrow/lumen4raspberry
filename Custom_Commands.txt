@@ -1,0 +1,7 @@
+1. Setting a timer:
+    "Lumen, set timer for x minutes"
+    "Lumen, set timer for x seconds"
+
+
+2. Playing a song:
+    "Lumen play random"
